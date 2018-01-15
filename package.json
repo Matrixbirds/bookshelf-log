@@ -1,0 +1,30 @@
+{
+  "name": "bookshelf-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matrixbirds/bookshelf-log.git"
+  },
+  "keywords": [
+    "log",
+    "bookshelf.js"
+  ],
+  "author": "matrixbirds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matrixbirds/bookshelf-log/issues"
+  },
+  "homepage": "https://github.com/Matrixbirds/bookshelf-log#readme",
+  "devDependencies": {
+    "bookshelf": "^0.12.1",
+    "knex": "^0.13.0",
+    "mysql": "^2.15.0",
+    "pg": "^7.4.1",
+    "sqlite3": "^3.1.13"
+  }
+}
